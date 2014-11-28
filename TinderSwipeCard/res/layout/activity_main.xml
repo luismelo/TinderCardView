@@ -7,15 +7,14 @@
 
     <ImageView
         android:id="@+id/imageView1"
-        android:layout_width="322dp"
-        android:layout_height="523dp"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
         android:src="@drawable/white_bg" />
 
     <ImageView
         android:id="@+id/imageView2"
-        android:layout_width="322dp"
-        android:layout_height="555dp"
-        android:layout_x="-2dp"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
         android:layout_y="-18dp"
         android:src="@drawable/bg" />
 

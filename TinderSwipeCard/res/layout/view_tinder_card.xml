@@ -5,21 +5,19 @@
     android:layout_height="wrap_content" >
 
     <ImageView
-        android:id="@+id/img_like"
+        android:id="@+id/img_dislike"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignParentRight="true"
-        android:layout_alignParentTop="true"
         android:alpha="0"
-        android:src="@drawable/like" />
+        android:src="@drawable/dislike" />
 
     <ImageView
-        android:id="@+id/img_dislike"
+        android:id="@+id/img_like"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentLeft="true"
         android:layout_alignParentTop="true"
         android:alpha="0"
-        android:src="@drawable/dislike" />
+        android:src="@drawable/like" />
 
 </RelativeLayout>
