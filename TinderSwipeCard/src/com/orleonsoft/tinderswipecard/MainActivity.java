@@ -9,7 +9,7 @@ import android.view.MenuItem;
 import android.widget.RelativeLayout;
 
 public class MainActivity extends Activity {
-	private final int CARDS = 5;
+	private final int CARDS = 1;
 	private final String IMAGE = "image_";
 	private RelativeLayout mRelativeParent;
 	

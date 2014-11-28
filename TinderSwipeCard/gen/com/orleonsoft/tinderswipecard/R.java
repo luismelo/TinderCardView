@@ -25,10 +25,11 @@ public final class R {
         public static final int yes=0x7f02000b;
     }
     public static final class id {
-        public static final int imageView2=0x7f060001;
-        public static final int img_dislike=0x7f060003;
+        public static final int imageView1=0x7f060001;
+        public static final int imageView2=0x7f060002;
+        public static final int img_dislike=0x7f060005;
         public static final int img_like=0x7f060004;
-        public static final int relative_contenido=0x7f060002;
+        public static final int relative_contenido=0x7f060003;
         public static final int relative_parent=0x7f060000;
     }
     public static final class layout {
